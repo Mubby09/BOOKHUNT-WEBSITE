@@ -59,3 +59,39 @@ body {
     font-size: 2rem;
   }
 }
+
+/* .carousel-inner{
+  height: 50vh;
+  margin-top:60px;
+} */
+
+.carousel-item{
+height: 600px;
+}
+
+.carousel-image1{
+background: url('./images/thought-catalog-o0Qqw21-0NI-unsplash.jpg');
+background-size: cover;
+} 
+
+.carousel-image2{
+  background: url('./images/suad-kamardeen-8PyNdtGL4Bg-unsplash.jpg');
+  background-size: cover;
+
+  } 
+
+ .carousel-image3{
+background: url('./images/daria-nepriakhina-xY55bL5mZAM-unsplash.jpg');
+background-size: cover;
+} 
+
+  .carousel-image4{
+   background: url('./images/giulia-bertelli-y7rGTFyOzxc-unsplash.jpg');
+  background-size: cover;
+  } 
+      
+  .carousel-image5{
+   background: url('./images/thought-catalog-Zr7MxECDTQ8-unsplash.jpg');
+   background-size: cover;
+    } 
+        
