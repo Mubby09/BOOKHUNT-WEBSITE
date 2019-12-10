@@ -60,6 +60,31 @@ body {
   }
 }
 
+
+
+@media (max-width: 500px) {
+  .fs-respo {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1025px) {
+  .fs-respo{
+    font-size: 2rem;
+  }
+}
+
+@media (max-height: 769px) {
+  .fs-respo21{
+    font-size: 2rem;
+  }
+}
+
+@media(max-width: 1025px){
+  #showcase {
+    height: 40vh;
+  } 
+}
 /* .carousel-inner{
   height: 50vh;
   margin-top:60px;
@@ -72,26 +97,30 @@ height: 600px;
 .carousel-image1{
 background: url('./images/thought-catalog-o0Qqw21-0NI-unsplash.jpg');
 background-size: cover;
+background-position: center;
 } 
 
 .carousel-image2{
-  background: url('./images/suad-kamardeen-8PyNdtGL4Bg-unsplash.jpg');
+  background: url('./images/suad-kamardeen-8PyNdtGL4Bg-unsplash\ \(2\).jpg');
   background-size: cover;
-
+  background-position: center;
   } 
 
- .carousel-image3{
-background: url('./images/daria-nepriakhina-xY55bL5mZAM-unsplash.jpg');
+.carousel-image3{
+background: url('./images/daria-nepriakhina-xY55bL5mZAM-unsplash\ \(1\).jpg');
 background-size: cover;
+background-position: center;
 } 
 
   .carousel-image4{
-   background: url('./images/giulia-bertelli-y7rGTFyOzxc-unsplash.jpg');
+   background: url('./images/giulia-bertelli-y7rGTFyOzxc-unsplash\ \(1\).jpg');
   background-size: cover;
+  background-position: center;
   } 
       
   .carousel-image5{
-   background: url('./images/thought-catalog-Zr7MxECDTQ8-unsplash.jpg');
+   background: url('./images/thought-catalog-Zr7MxECDTQ8-unsplash\ \(1\).jpg');
    background-size: cover;
+   background-position: center;
     } 
-        
+      
